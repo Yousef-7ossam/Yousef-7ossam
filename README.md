@@ -1,6 +1,6 @@
 <h1 align="center">Yousef Hossam Eldein Elsayed </h1>
 
-<h3 align="center">AI Engineer & Solution Architect | Agentic AI, LLMs RAG & MLOps | Cloud & Computer Vision</h3>
+<h3 align="center">AI Engineer & Solution Architect | Agentic AI, LLMs & RAG | MLOps, Cloud & Computer Vision</h3>
 
 <p align="center">
 </p>
