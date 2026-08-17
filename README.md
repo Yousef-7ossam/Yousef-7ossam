@@ -202,43 +202,6 @@ only when someone remembers.
 
 `Python` · `Django 5.2` · `DRF` · `PostgreSQL` · `Streamlit` · `Groq` · `RAG` · `Tool-Calling Agents` · `Docker` · `pytest`
 
-<br>
-
-### ByteTrack++ — Real-Time CPU Multi-Person Tracker
-
-<a href="https://github.com/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ByteTrack++ repository">
-</a>
-
-<p>
-  <img src="https://img.shields.io/github/languages/top/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker?style=flat-square&color=3776AB" alt="Top language">
-  <img src="https://img.shields.io/github/stars/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker?style=flat-square&color=181717&logo=github" alt="Stars">
-  <img src="https://img.shields.io/github/last-commit/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker?style=flat-square&color=2EA043" alt="Last commit">
-</p>
-
-A real-time multi-person detection and tracking system that runs entirely on CPU,
-combining YOLOv8 ONNX inference with a from-scratch implementation of the ByteTrack
-association algorithm.
-
-**The problem.** Multi-object tracking usually assumes a GPU. Getting persistent, stable
-identities on commodity CPU hardware means the association logic itself has to do the work
-that compute would otherwise paper over.
-
-**What I built.**
-
-- **Two-stage ByteTrack association** — high-confidence detections match tracks first,
-  then unmatched tracks are offered to low-confidence detections, recovering objects a
-  single-threshold tracker would drop.
-- **Kalman filtering** with a constant-velocity model for smooth box prediction.
-- **Appearance re-identification** via HSV colour histograms, recovering lost track IDs
-  after occlusion instead of spawning a new one.
-- **Motion estimation** classifying each person as approaching, receding or moving
-  directionally, using bounding-box height as a depth proxy.
-- **Robot follow mode** — click-to-lock a target and generate steering commands from
-  horizontal offset and depth.
-
-`Python` · `YOLOv8` · `ONNX Runtime` · `OpenCV` · `NumPy` · `Kalman Filter` · `Re-ID`
-
 ---
 
 ## Current Focus
