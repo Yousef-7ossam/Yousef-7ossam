@@ -1,10 +1,8 @@
-<h1 align="center">Yousef Hossam</h1>
+<h1 align="center">Yousef Hossam Eldein Elsayed </h1>
 
 <h3 align="center">AI Engineer & Solution Architect | Agentic AI, LLMs RAG & MLOps | Cloud & Computer Vision</h3>
 
 <p align="center">
-  I build AI that has to be right: retrieval that refuses to answer without sources,<br>
-  agents that cannot act without your agreement, and trackers that run in real time on a CPU.
 </p>
 
 <p align="center">
@@ -16,29 +14,28 @@
   </a>
   <a href="mailto:yousef7hossam778@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yousef-7ossam&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views">
 </p>
 
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 ---
 
 ## About
 
-I work on the part of AI that decides whether a system can be trusted in production.
-
-Most of my recent work is a healthcare platform where an AI assistant answers questions
-about real patient data. That constraint shaped how I build: the language model never
-touches the database, it can only request a named tool the backend decides it may use;
-general medical answers come only from approved, human-reviewed sources with verified
-citations; and nothing gets booked or cancelled without explicit agreement from the person
-in a later turn, matched against the exact action that was proposed.
-
-The same instinct shows up in my computer vision work — a multi-object tracker written
-from the algorithm up rather than pulled from a library, so every association decision is
-one I can explain and tune.
+AI Engineer & Solution Architect specializing in LLMs, RAG, Agentic AI, Computer Vision, and AI deployment. I design and build production-ready AI systems that solve real-world challenges through intelligent automation and data-driven solutions. Experienced in Machine Learning, Deep Learning, MLOps, AIOps, cloud deployment, APIs, and scalable AI architectures. Passionate about transforming innovative ideas into reliable, high-impact AI products that deliver measurable business value
 
 I work in **Arabic and English**, and I build AI systems that do the same.
 
@@ -69,8 +66,8 @@ I work in **Arabic and English**, and I build AI systems that do the same.
   </tr>
   <tr>
     <td><b>Computer Vision</b></td>
-    <td>Real-time multi-object detection and tracking on commodity CPU hardware</td>
-    <td>YOLOv8, ONNX Runtime, Kalman filtering, appearance re-ID, OpenCV</td>
+    <td>Real-time multi-object detection and tracking on commodity CPU hardware And camera </td>
+    <td>YOLO, ONNX Runtime, appearance re-ID, OpenCV</td>
   </tr>
   <tr>
     <td><b>Production Backends</b></td>
@@ -88,46 +85,75 @@ I work in **Arabic and English**, and I build AI systems that do the same.
 
 ## Tech Stack
 
-### Generative AI / LLM
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI Compatible](https://img.shields.io/badge/OpenAI--Compatible%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1A73E8?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-6C3483?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge)
-
-### Computer Vision
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-2C7A7B?style=for-the-badge)
-![Kalman Filter](https://img.shields.io/badge/Kalman%20Filtering-455A64?style=for-the-badge)
-![Multi-Object Tracking](https://img.shields.io/badge/Multi--Object%20Tracking-B7472A?style=for-the-badge)
-
-### Backend
-
+### AI & LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-25A162?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC%20%26%20AuthZ-374151?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Data
+</td>
+<td valign="top" width="33%">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### ML/DL & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-7B1FA2?style=for-the-badge)
 
-### DevOps & Tools
+</td>
+<td valign="top" width="33%">
 
+### Vector DBs
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge&logo=weaviate&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1E0?style=for-the-badge&logo=milvus&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Automation & Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -252,5 +278,5 @@ that compute would otherwise paper over.
 </p>
 
 <p align="center">
-  <i>Open to AI/ML engineering opportunities — LLM systems, computer vision, and applied AI in production.</i>
+  <i>Open to: RAG system builds · Agentic AI architecture · AI engineering roles — LLM systems, computer vision, and applied AI in production.</i>
 </p>
