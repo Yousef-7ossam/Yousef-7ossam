@@ -1,6 +1,6 @@
 <h1 align="center">Yousef Hossam</h1>
 
-<h3 align="center">AI Engineer — grounded LLM systems, real-time computer vision, production backends</h3>
+<h3 align="center">AI Engineer & Solution Architect | Agentic AI, LLMs RAG & MLOps | Cloud & Computer Vision</h3>
 
 <p align="center">
   I build AI that has to be right: retrieval that refuses to answer without sources,<br>
