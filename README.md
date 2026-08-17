@@ -241,15 +241,6 @@ that compute would otherwise paper over.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yousef-7ossam&theme=github_dark" alt="Top languages by commit">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yousef-7ossam&theme=github_dark" alt="Repositories per language">
-</p>
-
----
-
 ## Current Focus
 
 - **Retrieval that scales** — moving from exhaustive cosine scan to approximate nearest
