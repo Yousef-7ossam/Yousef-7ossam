@@ -139,6 +139,12 @@ I work in **Arabic and English**, and I build AI systems that do the same.
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Roshada repository">
 </a>
 
+<p>
+  <img src="https://img.shields.io/github/languages/top/Yousef-7ossam/Roshada?style=flat-square&color=3776AB" alt="Top language">
+  <img src="https://img.shields.io/github/stars/Yousef-7ossam/Roshada?style=flat-square&color=181717&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/Yousef-7ossam/Roshada?style=flat-square&color=2EA043" alt="Last commit">
+</p>
+
 A healthcare platform where patients, doctors, laboratories, radiology centres and
 pharmacies share one set of appointments, records and prescriptions — with an AI assistant
 that answers from the platform's own data and an approved medical knowledge base.
@@ -177,6 +183,12 @@ only when someone remembers.
 <a href="https://github.com/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ByteTrack++ repository">
 </a>
+
+<p>
+  <img src="https://img.shields.io/github/languages/top/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker?style=flat-square&color=3776AB" alt="Top language">
+  <img src="https://img.shields.io/github/stars/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker?style=flat-square&color=181717&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/Yousef-7ossam/ByteTrack-Plus-Plus-Person-Tracker?style=flat-square&color=2EA043" alt="Last commit">
+</p>
 
 A real-time multi-person detection and tracking system that runs entirely on CPU,
 combining YOLOv8 ONNX inference with a from-scratch implementation of the ByteTrack
